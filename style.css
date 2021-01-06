@@ -1,0 +1,109 @@
+body{
+    font-family: 'Yeon Sung', cursive;
+    margin: 0;
+    padding: 0;
+}
+.navigation{
+    height: 70px;
+
+}
+
+.navi{
+    float: right;
+    margin-right: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 40px;
+    color: black;
+    font-weight: 800;
+}
+
+h1{
+    font-size: 60px
+}
+h2{
+    font-size: 50px;
+}
+p{
+    color: yellowgreen;
+}
+.highlight{
+    color: darksalmon;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    height: 600px;
+    padding-bottom: 50Spx;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: rgb(241, 246, 248);
+    font-weight: 800;
+}
+.full-width{
+    width: 20%;
+    float: left;
+    margin-left: 7%;
+    padding: 2%;
+    text-align: center;
+    border-radius: 18px;
+    box-shadow: 1px 1px 40px grey;
+    
+    
+
+}
+.full-width img{
+    width: 100%;
+}
+.another-highlight{
+    color:tomato;
+}
+.working-projects h2{
+    text-align: center;
+    padding-bottom: 100px;
+
+}
+.ending{
+    background-image: url(images/ENDING.png);
+    background-size: 690px;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 100px;
+}
+.ending h2{
+    text-align: center;
+    color: white;
+    font-size: 45px;
+}
+.ending a{
+    text-decoration: none;
+    color: white;
+    margin-left: 100px;
+    border-radius: 20px;
+    background-image: linear-gradient(darksalmon,tomato);
+    padding: 10px 30px;
+}
+footer{
+    text-align: center;
+    color: mediumspringgreen;
+}
+footer h2{
+    font-size: 30px;
+
+}
+footer img{
+    padding: 20px;
+    width: 40px;
+}
+
+
